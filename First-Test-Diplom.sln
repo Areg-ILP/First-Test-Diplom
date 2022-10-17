@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First-Test-Diplom", "First-Test-Diplom.csproj", "{A37AF3F0-A37B-41E7-90F3-F5CDDF4FD2BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First-Test-DbModels", "..\First-Test-DbModels\First-Test-DbModels.csproj", "{BF4C4BEC-A539-43B4-B523-8E32444DF997}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{A37AF3F0-A37B-41E7-90F3-F5CDDF4FD2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A37AF3F0-A37B-41E7-90F3-F5CDDF4FD2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A37AF3F0-A37B-41E7-90F3-F5CDDF4FD2BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BF4C4BEC-A539-43B4-B523-8E32444DF997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF4C4BEC-A539-43B4-B523-8E32444DF997}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF4C4BEC-A539-43B4-B523-8E32444DF997}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF4C4BEC-A539-43B4-B523-8E32444DF997}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
